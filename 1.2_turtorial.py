@@ -16,7 +16,7 @@ draw.penup()
 draw.goto(-25,190)
 draw.write("Nice Block")
 draw.goto(0,0)
-draw.pendown() ##Make the Nice block text and rtc
+draw.pendown() #Make the Nice block text and rtc
 
 draw.begin_fill() #make right side of block
 draw.fillcolor("#834217")
